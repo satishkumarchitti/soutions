@@ -31,4 +31,10 @@ quesiton 5:
 
     
 question 6:
-    triggers too many
+    triggers too many updates 
+    to fix this delay updating the value until the user stops typing.
+
+
+
+quesiton 8;
+    using array index as key causes reuse DOM nodes incorrectly. use stable IDs not the index
